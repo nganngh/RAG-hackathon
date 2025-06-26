@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sentence-transformers
+elasticsearch
+openai  # Or boto3 if using AWS Bedrock
